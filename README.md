@@ -5,7 +5,7 @@ This repository contains the analysis of the Algerian Forest Fire Cleaned Data. 
 
 ### Analysis Steps
  1. Exploratory Data Analysis (EDA): Initial exploration of the dataset to understand its structure, distributions, and relationships between variables.
-#### 2. Linear Regression: Utilized Linear Regression to model the relationship between independent and dependent variables.
+ 2. Linear Regression: Utilized Linear Regression to model the relationship between independent and dependent variables.
 #### 3. Ridge Regression: Applied Ridge Regression to handle multicollinearity and prevent overfitting.
 #### 4. Lasso Regression: Utilized Lasso Regression for feature selection and regularization.
 #### 5. Elastic Net Regression: Implemented Elastic Net Regression to combine the strengths of Ridge and Lasso regression.
