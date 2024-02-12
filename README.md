@@ -15,8 +15,8 @@ This repository contains the analysis of the Algerian Forest Fire Cleaned Data. 
  9. Model Deployment: Saved the optimized model using Pickle for future use.
 
 ### Files
-#### Algerian_forest_fires_cleaned.csv: The cleaned dataset used for analysis.
-#### README.md: This file, providing an overview of the project.
+- Algerian_forest_fires_cleaned.csv: The cleaned dataset used for analysis.
+- README.md: This file, providing an overview of the project.
 
 ### Requirements
 - Python 3
@@ -28,12 +28,12 @@ This repository contains the analysis of the Algerian Forest Fire Cleaned Data. 
 - Scikit-learn
 
 ### Usage
-#### 1. Clone the repository: git clone https://github.com/your-username/algerian-forest-fire-cleaned.git
-#### 2. Navigate to the project directory: cd algerian-forest-fire-cleaned
-#### 3. Open and run the Jupyter notebooks to explore the analyses.
+ 1. Clone the repository: git clone https://github.com/your-username/algerian-forest-fire-cleaned.git
+ 2. Navigate to the project directory: cd algerian-forest-fire-cleaned
+ 3. Open and run the Jupyter notebooks to explore the analyses.
 
 ### Future Work
-#### Further exploration of feature engineering techniques to enhance model performance.
-#### Experimentation with other regression algorithms and ensemble methods.
-#### Deployment of the optimized model in production environments.
+- Further exploration of feature engineering techniques to enhance model performance.
+- Experimentation with other regression algorithms and ensemble methods.
+- Deployment of the optimized model in production environments.
 
