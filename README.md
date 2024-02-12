@@ -19,13 +19,13 @@ This repository contains the analysis of the Algerian Forest Fire Cleaned Data. 
 #### README.md: This file, providing an overview of the project.
 
 ### Requirements
-#### Python 3
-#### Jupyter Notebook
-#### Pandas
-#### NumPy
-#### Matplotlib
-#### Seaborn
-#### Scikit-learn
+- Python 3
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ### Usage
 #### 1. Clone the repository: git clone https://github.com/your-username/algerian-forest-fire-cleaned.git
