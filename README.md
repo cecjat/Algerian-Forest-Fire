@@ -16,7 +16,8 @@ This repository contains the analysis of the Algerian Forest Fire Cleaned Data. 
 
 ### Files
 - Algerian_forest_fires_cleaned.csv: The cleaned dataset used for analysis.
-- README.md: This file, providing an overview of the project.
+- README.md: This file provides an overview of the project.
+- Main File: This file contains the end-to-end code for the Analysis of the Algerian Forest Fire. 
 - CLJ1 and Scaler1: This is a pickled file of the Tunned Ridge Regression Model using the 3 features. 
 - CLJ2 and Scaler2: This is a pickled file of the Tunned Ridge Regression Model using the 7 features. 
 
